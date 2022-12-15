@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on international business development
-- 🌱 I’m currently learning kotlin
+- 🔭 I’m currently working with international tech business development
+- 🌱 I’m currently learning kotlin / mobile
 - 👯 I’m looking to collaborate on mobile development projects
 
 <div align="center">
