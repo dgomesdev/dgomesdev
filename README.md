@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working with international tech business development
-- 🌱 I’m currently learning kotlin / mobile
-- 👯 I’m looking to collaborate on mobile development projects
+- 🔭 I’m currently working with international business development in the tech sector
+- 🌱 I’m currently learning Kotlin / Android
+- 👯 I’m looking to collaborate with mobile development projects
 
 <div align="center">
   <a href="https://github.com/dgomesdev">
