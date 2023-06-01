@@ -1,8 +1,16 @@
-### Hello there 👋
+# Hello there 👋
 
-- 🔭 I’m currently working with international business development in the tech sector
-- 🌱 I’m currently learning Kotlin / Android
-- 👯 I’m looking to collaborate with mobile development projects
+### Nice to meet you! I'm Danilo, Android Developer
+
+Motivated by my passion for tech and problem resolutions with logic, I'm undergoing a carrer change from International Business Developer to Mobile Developer.
+
+For the past year I'v been studying Android and developing apps using Kotlin and Java.
+
+I like to work with international clients and multi-cultural teams. I have experience in different countries and can adapt my communication in several languages.
+
+## Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gomes-danilo/)
 
 <div align="center">
   <a href="https://github.com/dgomesdev">
