@@ -4,7 +4,7 @@
 
 Motivated by my passion for tech and problem resolutions with logic, I'm undergoing a carrer change from International Business Developer to Mobile Developer.
 
-For the past year I'v been studying Android and developing apps using Kotlin and Java.
+For the past year I've been studying Android and developing apps using Kotlin and Java.
 
 I like to work with international clients and multi-cultural teams. I have experience in different countries and can adapt my communication in several languages.
 
