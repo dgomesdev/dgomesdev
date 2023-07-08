@@ -26,7 +26,8 @@ Knowledge that I want to put into practice after my career transition as a mobil
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gomes-danilo/)
-[![Portfolio](https://github.com/dgomesdev/My-CV/blob/main/app/src/main/res/drawable/dgomesdev_mini_logo.jpeg)](https://www.dgomesdev.com/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dgomesdev.com/)
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danilo.gomes@outlook.fr)
 
 
 <div align="center"><br>
