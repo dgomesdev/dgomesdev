@@ -2,11 +2,11 @@
 
 ### Nice to meet you! I'm Danilo, Android Developer
 
-As a dynamic professional motivated by an interest in technology and problem solving, I am seeking new challenges in Android development.
+As a dynamic professional motivated by an interest in technology and problem solving, I am seeking for new challenges as an Android developer.
 
-With experience working with international clients, I have successfully collaborated with diverse teams from different cultural backgrounds, communicating adaptably and with a focus on teamwork.
+As an International Business developer I could work with international clients, successfully collaborated with multi-cultural teams, and developed my communication adaptability.
 
-My continuous willingness to learn new things and my aptitude for programming led me to study Kotlin and Java, database manipulation, API handling, dependency injection, testing and other Android-related knowledge.
+My continuous willingness to learn new things and my aptitude for programming led me to study Kotlin and Java, architecture for mobile apps and Android-related knowledge.
 
 Knowledge that I want to put into practice after my career transition as a mobile developer
 
