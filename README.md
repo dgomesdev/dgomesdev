@@ -1,14 +1,10 @@
-# Hello there 👋
+<h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-### Nice to meet you! I'm Danilo, Android Developer
+Passionate and dedicated Junior Android Developer with a background in InternationalBusiness Development. Solid understanding of fundamental Android developmentconcepts and proficient in Java and Kotlin.
 
-As a dynamic professional motivated by an interest in technology and problem solving, I am seeking for new challenges as an Android developer.
+Skilled in collaborating with diverse teams and adapting to different cultural contexts.Experienced in implementing Jetpack Compose, integrating data from RESTful APIswith local data persistence and dependecy injection. Strong communication skills and acollaborative mindset.
 
-As an International Business developer I could work with international clients, successfully collaborated with multi-cultural teams, and developed my communication adaptability.
-
-My continuous willingness to learn new things and my aptitude for programming led me to study Kotlin and Java, architecture for mobile apps and Android-related knowledge.
-
-Knowledge that I want to put into practice after my career transition as a mobile developer
+Seeking opportunities to further expand expertise and contribute to innovative Androidprojects.
 
 ## Skills
   
