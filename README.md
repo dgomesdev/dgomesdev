@@ -1,6 +1,6 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-Passionate and dedicated Junior Android Developer with a background in InternationalBusiness Development. Solid understanding of fundamental Android developmentconcepts and proficient in Java and Kotlin.
+Passionate and dedicated Junior Android Developer with a background in International Business Development. Solid understanding of fundamental Android developmentconcepts and proficient in Java and Kotlin.
 
 Skilled in collaborating with diverse teams and adapting to different cultural contexts.Experienced in implementing Jetpack Compose, integrating data from RESTful APIswith local data persistence and dependecy injection. Strong communication skills and acollaborative mindset.
 
