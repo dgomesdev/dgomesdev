@@ -2,9 +2,9 @@
 
 Passionate and dedicated Junior Android Developer with a background in International Business Development. Solid understanding of fundamental Android development concepts and proficient in Java and Kotlin.
 
-Skilled in collaborating with diverse teams and adapting to different cultural contexts. Experienced in implementing Jetpack Compose, integrating data from RESTful APIswith local data persistence and dependecy injection. Strong communication skills and acollaborative mindset.
+Skilled in collaborating with diverse teams and adapting to different cultural contexts. Experienced in implementing Jetpack Compose, integrating data from RESTful APIs with local data persistence and dependecy injection. Strong communication skills and a collaborative mindset.
 
-Seeking opportunities to further expand expertise and contribute to innovative Androidprojects.
+Seeking opportunities to further expand expertise and contribute to innovative Android projects.
 
 ## Skills
   
