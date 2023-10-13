@@ -1,10 +1,10 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-Passionate and dedicated Junior Android Developer with a background in International Business Development. Solid understanding of fundamental Android development concepts and proficient in Java and Kotlin.
+After 10 years of academic and professional experience in the field of international relations, I realised that my vocation was to be a programmer. After months of study, I decided to leave my job as an international business developer to become a mobile developer.
 
-Skilled in collaborating with diverse teams and adapting to different cultural contexts. Experienced in implementing Jetpack Compose, integrating data from RESTful APIs with local data persistence and dependecy injection. Strong communication skills and a collaborative mindset.
+From my former career, I bring an aptitude for foreign languages, direct communication with clients and commercial vision. I'm sure that these skills, combined with the solid programming knowledge I've acquired in recent months, will be very useful for the mobile projects I'll be working on.
 
-Seeking opportunities to further expand expertise and contribute to innovative Android projects.
+I'm currently looking for a professional opportunity to complete this career transition, contributing to Android application development projects that provide impactful and useful solutions for client problems.
 
 ## Skills
   
