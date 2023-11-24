@@ -1,17 +1,17 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-After several years of professional experience in the field of international sales, I decided to leave my job as a business developer to become a mobile developer.
+* After several years of professional experience in the field of international sales, I decided to leave my job as a business developer to become a mobile developer.
 
-Beyond the business vision, I can speak several languages, work with multi-cultural teams and communicate with clients. 
+* Beyond the business vision, I can speak several languages, work with multi-cultural teams and communicate with clients. 
 
-These skills, combined with the solid programming knowledge I have, are very useful to turn problems into solutions.
+* These skills, combined with the solid programming knowledge I have, are very useful to turn problems into solutions.
 
-I'm currently looking for a professional opportunity as an Android developer to complete this career transition!
+* I'm currently looking for a professional opportunity as an Android developer to complete this career transition!
 
 
 ## My CV
 <div align="center">
-  <img src="https://github.com/dgomesdev.png" width="30%" height="30%">
+  <img src="https://github.com/dgomesdev/My-CV/blob/main/Screenshots/Main%20screen.png" width="30%" height="30%">
   <br>
   <br>
   **Checkout my CV on Playstore** 
