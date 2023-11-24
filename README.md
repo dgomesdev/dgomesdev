@@ -2,7 +2,7 @@
 
 * After several years of professional experience in the field of international sales, I decided to leave my job as a business developer to become a mobile developer.
 
-* Beyond the business vision, I can speak several languages, work with multi-cultural teams and communicate with clients. 
+* Beyond the business vision, I can easily adapt to international environments , work with multi-cultural teams and communicate with clients in several languages. 
 
 * These skills, combined with the solid programming knowledge I have, are very useful to turn problems into solutions.
 
