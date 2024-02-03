@@ -1,12 +1,12 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-* After several years of professional experience in the field of international sales, I decided to leave my job as a business developer to become a mobile developer.
+* After completing a Master's degree in international relations, living abroad for seven years and working in international sales, I decided to make a career change and become a developer.
+
+* It was while working in an agency of the French Embassy in Brazil, where I was helping companies in the technology sector to develop commercially, that I discovered programming: a field that encourages continuous learning, the use of logic, reflection and communication, things that I appreciate not only on a professional level, but also on a personal one.
 
 * Beyond the business vision, I can easily adapt to international environments , work with multi-cultural teams and communicate with clients in several languages. 
 
-* These skills, combined with the solid programming knowledge I have, are very useful to turn problems into solutions.
-
-* I'm currently looking for a professional opportunity as an Android developer to complete this career transition!
+* I'm looking for a new professional opportunity to contribute to projects that have a positive impact and help solve complex problems.
 
 
 ## My CV
