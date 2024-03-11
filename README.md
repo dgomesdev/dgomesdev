@@ -1,13 +1,23 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-* After completing a Master's degree in international relations, living abroad for seven years and working in international sales, I decided to make a career change and become a developer.
+🌎 I'm a multicultural polyglot with a Master's degree in International Relations who decided to become a mobile developer.
 
-* It was while working in an agency of the French Embassy in Brazil, where I was helping companies in the technology sector to develop commercially, that I discovered programming: a field that encourages continuous learning, the use of logic, reflection and communication, things that I appreciate not only on a professional level, but also on a personal one.
+🤝 My professional experience as a sales representative has enabled me to develop an analytical thinking and skills in international communication and teamwork.
 
-* Beyond the business vision, I can easily adapt to international environments , work with multi-cultural teams and communicate with clients in several languages. 
+💻 Having already published apps on the Play Store, I know how to store data locally (with SQLite and Room), integrate apps with REST APIs and with backend services such as Firebase or Supabase, always striving to maintain Clean Code good practices and SOLID principles.
 
-* I'm looking for a new professional opportunity to contribute to projects that have a positive impact and help solve complex problems.
+📱 My main strengths are Kotlin and Jetpack Compose, but I can also develop apps using Java and build interfaces with XML views.
 
+✉️ If you think my Android development skills could be useful for your project, don't hesitate to contact me:
+<br>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomes-danilo/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dgomesdev.com/)
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danilo.gomes@outlook.fr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511936186593)
+
+<br>
 
 ## My CV
 <div align="center">
@@ -40,14 +50,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 </div>
-
-### How to reach me: 
- 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomes-danilo/)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.dgomesdev.com/)
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:danilo.gomes@outlook.fr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511936186593)
-
 
 <div align="center"><br>
   <a href="https://github.com/dgomesdev">
