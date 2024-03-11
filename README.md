@@ -2,7 +2,7 @@
 
 🌎 I'm a multicultural polyglot with a Master's degree in International Relations who decided to become a mobile developer.
 
-🤝 My professional experience as a sales representative has enabled me to develop an analytical thinking and skills in international communication and teamwork.
+🤝 My professional experience in sales has enabled me to develop an analytical thinking and skills in international communication and teamwork.
 
 💻 Having already published apps on the Play Store, I know how to store data locally (with SQLite and Room), integrate apps with REST APIs and with backend services such as Firebase or Supabase, always striving to maintain Clean Code good practices and SOLID principles.
 
