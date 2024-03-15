@@ -8,12 +8,12 @@
 
 📱 My experience includes:
 
-• Successfully published 3 Android apps on the Play Store.
-• Implemented functionalities like a companion app for an event, a currency exchange and my own CV.
-• Integrated apps with REST APIs and backend services (Firebase, Supabase).
-• Proficient in data storage using SQLite and Room.
-• Adhere to Clean Code principles and SOLID practices.
-• Strong understanding of business needs, especially in the tech sector.
+* Successfully published 3 Android apps on the Play Store.
+* Implemented functionalities like a companion app for an event, a currency exchange and my own CV.
+* Integrated apps with REST APIs and backend services (Firebase, Supabase).
+* Proficient in data storage using SQLite and Room.
+* Adhere to Clean Code principles and SOLID practices.
+* Strong understanding of business needs, especially in the tech sector.
 
 ✉️ If you think my Android development skills could be useful for your project, don't hesitate to contact me:
 <br>
