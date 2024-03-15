@@ -6,7 +6,14 @@
 
 💻 Having already published apps on the Play Store, I know how to store data locally (with SQLite and Room), integrate apps with REST APIs and with backend services such as Firebase or Supabase, always striving to maintain Clean Code good practices and SOLID principles.
 
-📱 My main strengths are Kotlin and Jetpack Compose, but I can also develop apps using Java and build interfaces with XML views.
+📱 My experience includes:
+
+• Successfully published 3 Android apps on the Play Store.
+• Implemented functionalities like a companion app for an event, a currency exchange and my own CV.
+• Integrated apps with REST APIs and backend services (Firebase, Supabase).
+• Proficient in data storage using SQLite and Room.
+• Adhere to Clean Code principles and SOLID practices.
+• Strong understanding of business needs, especially in the tech sector.
 
 ✉️ If you think my Android development skills could be useful for your project, don't hesitate to contact me:
 <br>
