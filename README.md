@@ -1,6 +1,6 @@
-<h1 align = "justify"> Nice to meet you! I'm Danilo, Android Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align = "justify"> Nice to meet you! I'm Danilo, Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-After a career change, I became an Android app development professional. I have 4 years' experience in international trade working in various corporate environments, including an agency of the French Embassy in Brazil, contributing to the commercial development of French companies in various technology verticals, where it was possible to observe the different challenges faced when it comes to understanding customer demands.
+After a career change, I became an app development professional. I have 4 years' experience in international trade working in various corporate environments, including an agency of the French Embassy in Brazil, contributing to the commercial development of French companies in various technology verticals, where it was possible to observe the different challenges faced when it comes to understanding customer demands.
 
 During my career, I have identified that many companies need to continuously improve their products and services in order to better serve their customers, seeking to understand their needs and proposing assertive solutions to respond to these problems. My aim is to help companies overcome these challenges by combining my technical knowledge of programming and business knowledge.
 
