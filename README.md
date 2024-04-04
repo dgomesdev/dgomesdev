@@ -32,7 +32,7 @@ I am committed to collaborating with multidisciplinary teams to develop and impl
 </div>
  
 
-### I'm currently learning:  
+### My stacks:  
 
 <div align="center">
 
