@@ -24,7 +24,7 @@ I am committed to collaborating with multidisciplinary teams to develop and impl
   <img src="https://github.com/dgomesdev/My-CV/blob/main/Screenshots/Main%20screen.png" width="30%" height="30%">
   <br>
   <br>
-  **Checkout my CV on Playstore** 
+  **Check my CV on the Play Store** 
   <br>
   <br>
   
