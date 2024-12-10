@@ -1,12 +1,10 @@
 <h1 align = "justify"> Nice to meet you! I'm Danilo, Mobile Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-After a career change, I became a mobile developer. I have 4 years' experience in international trade working in various corporate environments, including an agency of the French Embassy in Brazil, contributing to the commercial development of French companies in various technology verticals, where it was possible to observe the different challenges faced when it comes to understanding customer demands.
+I am a Mobile Developer specializing in native Android development with Kotlin and Jetpack Compose. I have experience creating robust and scalable RESTful APIs from scratch using Java and Spring Boot, as well as developing applications that seamlessly integrate with both the APIs I build and existing ones.
 
-During my career, I have identified that many companies need to continuously improve their products and services in order to better serve their customers, seeking to understand their needs and proposing assertive solutions to respond to these problems. My aim is to help companies overcome these challenges by combining my technical knowledge of programming and business knowledge.
+With a strong ability to interact with both technical and non-technical teams, I approach problem-solving with a holistic perspective, ensuring solutions align with broader business objectives. I'm also able to document complex systems and processes, making them accessible to diverse audiences.
 
-I understand that the absence of a team committed to understanding the customer's business can lead to incorrect technical decisions and a loss of alignment between the expectations of the developers, the customer and the users. When developing applications, I ensure that I meet not only the technical requirements, but also those of the company's business, thereby minimising these problems and maximising the synergy between the various stakeholders.
-
-I am committed to collaborating with multidisciplinary teams to develop and implement solutions tailored to the specific needs of each client. My focus is not only to develop applications, but also to contribute to requirements analysis, communication between different teams and customer service, transforming the development of an application into a satisfactory experience for everyone.
+My previous experience in international business development has honed my skills in working with global projects, analyzing business needs beyond technical requirements, and effectively communicating with stakeholders across different cultures and disciplines. These experiences have equipped me to deliver impactful, well-rounded solutions in dynamic environments.
 
 ✉️ If you think my skills could be useful for your project, don't hesitate to contact me:
 <br>
